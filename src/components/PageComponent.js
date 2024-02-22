@@ -1,6 +1,4 @@
 import React from 'react';
-import './styles/PageComponent.css'
-// import MisDatosForm from '../views/MisDatosForm';
 import MisTareas from '../views/MisTareas';
 import MisDevoluciones from '../views/MisDevoluciones';
 import MisComunicaciones from './../views/MisComunicaciones';

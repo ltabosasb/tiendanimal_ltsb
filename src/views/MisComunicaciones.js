@@ -1,7 +1,7 @@
 import React from "react";
 
 const MisComunicaciones = () => {
-    return <h1></h1>
+    return
 }
 
 export default MisComunicaciones
