@@ -1,0 +1,37 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 62px;
+    background-color: #fff;
+    border-bottom: 1px solid rgb(228, 228, 228);
+    padding: 0 10px;
+}
+
+.icon {
+    font-size: 24px;
+}
+
+.search-bar {
+    display: none;
+}
+
+.menu-search-container, 
+.user-cart-container {
+    display: flex;
+    gap: 1rem;
+}
+
+@media (min-width: 769px) {
+    .logo-container {
+        width: 50%;
+    }
+
+    .menu-search-container {
+        display: none;
+    }
+
+    .search-icon-mobile {
+        display: none;
+    }
+}

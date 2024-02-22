@@ -1,0 +1,31 @@
+.search-bar {
+    height: 100%;
+    width: 300px;
+    display: none;
+    align-items: center;
+    position: relative;
+}
+
+.search-input {
+    height: 60%;
+    width: 100%;
+    padding: 0 10px;
+    border-radius: 12px;
+    border: 1px solid rgb(159, 157, 157);
+}
+
+.search-input:focus {
+    border: 1px solid #639605;
+}
+
+.search-icon {
+    position: absolute;
+    font-size: 16px;
+    left: 90%;
+}
+
+@media (min-width: 769px) {
+    .search-bar {
+        display: flex;
+    }
+}
