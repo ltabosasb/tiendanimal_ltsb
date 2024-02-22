@@ -1,4 +1,4 @@
-# Tendanimal Task Manager
+# Tendanimal Task Manager (Front-End)
 
 Tendanimal Task Manager is a simple, intuitive application designed for personal task management. It leverages React's powerful ecosystem to offer a mobile-first, user-friendly interface for tracking to-dos, managing tasks, and staying organized.
 
