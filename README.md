@@ -33,5 +33,5 @@ when it is done installing everything, run the next command:
     npm start
 
 
-a browser window should open at the addres http://localhost:3000 with the application ready to test
+a browser window should open at the addres http://localhost:3000 with the application ready to test, 
 open the developer tools of your browser (ctrl + shift + i) and it will be able to test it in mobile screen sizes, which is recommended
